@@ -1,0 +1,51 @@
+.bg{
+    background-image:url("https://harcourts.com/blog/wp-content/uploads/2019/12/gown-rental-in-Toronto.jpg");
+    height:100vh;
+    background-size:cover;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    overflow:scroll;
+}
+.bgg{
+    background-color:rgb(241, 220, 179);
+    opacity:0.9;
+    height:300px;
+    width:450px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:Center;
+    font-size:20px;
+    font-family:italic;
+}
+input{
+    margin-top:25px;
+    margin-bottom:5px;
+    font-size:20px;
+}
+button{
+    margin-top:10px;
+}
+.ad{
+    margin-top:20px;
+    background-color:rgb(252, 189, 138);
+    opacity:0.8;
+    width:350px;
+    padding-bottom:10px;
+    BORDER-RADIUS:15PX;
+}
+.btn{
+    background-image:linear-gradient(rgb(231, 164, 40),rgb(240, 211, 158));
+    padding-left:15px;
+    padding-right:15px;
+    padding-top: 15px;
+    padding-bottom:15px;
+}
+.ele{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+}
